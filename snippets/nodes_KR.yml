@@ -1,28 +1,36 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
   name: 0|🇰🇷韩国 01 | 1x KR
-  password: 18f38d60-64f4-4048-b428-b3786270fcd4
+  password: e36b37e3-3ec4-4b78-a4bd-2ff0fd61d5ff
   port: 31311
   server: free.2apzhfa.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇰🇷韩国 02 | 1x KR
-  password: 18f38d60-64f4-4048-b428-b3786270fcd4
+  password: e36b37e3-3ec4-4b78-a4bd-2ff0fd61d5ff
   port: 31313
   server: free.2apzhfa.xyz
   type: ss
   udp: true
-- cipher: aes-256-cfb
-  name: 1|🇰🇷2 |  3.9MB/s
-  password: amazonskr05
-  port: 443
-  server: 43.202.67.225
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇰🇷 韩国 01 | 1x KR
+  password: b4659d2b-33c9-4c8e-874a-2dd426217c56
+  port: 36311
+  server: free.2weradf.xyz
   type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇰🇷 韩国 02 | 1x KR
+  password: b4659d2b-33c9-4c8e-874a-2dd426217c56
+  port: 36313
+  server: free.2weradf.xyz
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 11,12|韩国|@ripaojiedian
+  name: 12,13|韩国|@ripaojiedian
   network: ws
   port: '443'
   server: kr.ttcc.tech
@@ -38,23 +46,9 @@ proxies:
     path: /41cfbd9d-d2da-4300-a142-b49068f7ad3d
 - cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 11|🇰🇷 韩国特殊|@ripaojiedian
+  name: 12|🇰🇷 韩国特殊|@ripaojiedian
   password: amazonskr05
   port: 443
   server: 43.201.54.89
   tfo: false
   type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 14|🇰🇷 韩国 01 | 1x KR
-  password: ac1b2130-36cf-4ffc-b747-c68df09c7fdd
-  port: 36311
-  server: free.2weradf.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 14|🇰🇷 韩国 02 | 1x KR
-  password: ac1b2130-36cf-4ffc-b747-c68df09c7fdd
-  port: 36313
-  server: free.2weradf.xyz
-  type: ss
-  udp: true
