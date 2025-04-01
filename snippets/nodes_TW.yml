@@ -1,27 +1,48 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
   name: 0|🇹🇼 台湾 01 | 1x TW
-  password: 70f0901a-f99e-4a1a-82ec-6ddd393b321d
+  password: fafa55bf-e2fe-4772-8694-0bfa6fe27679
   port: 36241
   server: free.2weradf.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇹🇼 台湾 02 | 1x TW
-  password: 70f0901a-f99e-4a1a-82ec-6ddd393b321d
+  password: fafa55bf-e2fe-4772-8694-0bfa6fe27679
   port: 36243
   server: free.2weradf.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇹🇼 台湾 03 | 1x TW
-  password: 70f0901a-f99e-4a1a-82ec-6ddd393b321d
+  password: fafa55bf-e2fe-4772-8694-0bfa6fe27679
   port: 36245
   server: free.2weradf.xyz
   type: ss
   udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 1|🇹🇼台湾 01 | 1x TW
+  password: ebf51464-7691-44af-9740-0ad3d99ba785
+  port: 31241
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 1|🇹🇼台湾 02 | 1x TW
+  password: ebf51464-7691-44af-9740-0ad3d99ba785
+  port: 31243
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 1|🇹🇼台湾 03 | 1x TW
+  password: ebf51464-7691-44af-9740-0ad3d99ba785
+  port: 31245
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
 - client-fingerprint: chrome
-  name: 11,12|台湾|@ripaojiedian
+  name: 12,13|台湾|@ripaojiedian
   network: tcp
   password: 13c3cf97-5a4a-434f-880a-aecbd70c15bc
   port: 20027
@@ -29,24 +50,3 @@ proxies:
   skip-cert-verify: true
   sni: 7.qzhm8l42g1.xyz
   type: trojan
-- cipher: chacha20-ietf-poly1305
-  name: 14|🇹🇼台湾 01 | 1x TW
-  password: d73ea07e-39c0-4dc9-ac33-d7c1ffbfde95
-  port: 31241
-  server: free.2apzhfa.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 14|🇹🇼台湾 02 | 1x TW
-  password: d73ea07e-39c0-4dc9-ac33-d7c1ffbfde95
-  port: 31243
-  server: free.2apzhfa.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 14|🇹🇼台湾 03 | 1x TW
-  password: d73ea07e-39c0-4dc9-ac33-d7c1ffbfde95
-  port: 31245
-  server: free.2apzhfa.xyz
-  type: ss
-  udp: true
