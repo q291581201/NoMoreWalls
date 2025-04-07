@@ -1,17 +1,12 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  name: 1|🇭🇰香港 01 | 1x HK
-  password: d682a050-ef07-44fd-a85e-07335f926c7c
-  port: 31141
-  server: free.2apzhfa.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 1|🇬🇧英国家宽 01 | 1x UK
-  password: d682a050-ef07-44fd-a85e-07335f926c7c
-  port: 31271
-  server: free.2apzhfa.xyz
-  type: ss
+- client-fingerprint: chrome
+  name: 0,13|GB_speednode_0008
+  password: b19c4375-d847-4c40-9824-4767c88b5f38
+  port: 10200
+  server: www.ak-hk.top
+  skip-cert-verify: true
+  sni: www.ak-hk.top
+  type: trojan
   udp: true
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
@@ -29,11 +24,17 @@ proxies:
   server: 156.229.162.50
   tfo: false
   type: ss
-- name: 13|GB_speednode_0012
-  password: b19c4375-d847-4c40-9824-4767c88b5f38
-  port: 10200
-  server: www.ak-hk.top
-  skip-cert-verify: true
-  sni: www.ak-hk.top
-  type: trojan
+- cipher: chacha20-ietf-poly1305
+  name: 14|🇭🇰香港 01 | 1x HK
+  password: 92432191-31a6-44e7-b274-dbe93df4fe8c
+  port: 31141
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 14|🇬🇧英国家宽 01 | 1x UK
+  password: 92432191-31a6-44e7-b274-dbe93df4fe8c
+  port: 31271
+  server: free.2apzhfa.xyz
+  type: ss
   udp: true

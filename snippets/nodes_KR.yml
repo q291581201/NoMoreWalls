@@ -1,18 +1,4 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  name: 1|🇰🇷韩国 01 | 1x KR
-  password: d682a050-ef07-44fd-a85e-07335f926c7c
-  port: 31311
-  server: free.2apzhfa.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 1|🇰🇷韩国 02 | 1x KR
-  password: d682a050-ef07-44fd-a85e-07335f926c7c
-  port: 31313
-  server: free.2apzhfa.xyz
-  type: ss
-  udp: true
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
@@ -38,3 +24,17 @@ proxies:
   server: 18.140.50.192
   tfo: false
   type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 14|🇰🇷韩国 01 | 1x KR
+  password: 92432191-31a6-44e7-b274-dbe93df4fe8c
+  port: 31311
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 14|🇰🇷韩国 02 | 1x KR
+  password: 92432191-31a6-44e7-b274-dbe93df4fe8c
+  port: 31313
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
