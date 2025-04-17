@@ -1,57 +1,28 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
   name: 0|🇹🇼台湾 01 | 1x TW
-  password: 7de029cf-83c7-4edb-9cdf-7ddf55a627b3
+  password: c8445d05-f8eb-4753-a2d2-67eba7061480
   port: 31241
   server: free.2apzhfa.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇹🇼台湾 02 | 1x TW
-  password: 7de029cf-83c7-4edb-9cdf-7ddf55a627b3
+  password: c8445d05-f8eb-4753-a2d2-67eba7061480
   port: 31243
   server: free.2apzhfa.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇹🇼台湾 03 | 1x TW
-  password: 7de029cf-83c7-4edb-9cdf-7ddf55a627b3
+  password: c8445d05-f8eb-4753-a2d2-67eba7061480
   port: 31245
   server: free.2apzhfa.xyz
   type: ss
   udp: true
-- name: 1|🇹🇼2 |  6.3MB/s
-  password: 654a1226-9f17-350a-914a-14328af25e2f
-  port: 21247
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: x91.flybar.work
-  type: trojan
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇹🇼 台湾 01 | 1x TW
-  password: 151d4a99-1f23-43a7-bf09-3c0c69ccb7f0
-  port: 36241
-  server: free.2weradf.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇹🇼 台湾 02 | 1x TW
-  password: 151d4a99-1f23-43a7-bf09-3c0c69ccb7f0
-  port: 36243
-  server: free.2weradf.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇹🇼 台湾 03 | 1x TW
-  password: 151d4a99-1f23-43a7-bf09-3c0c69ccb7f0
-  port: 36245
-  server: free.2weradf.xyz
-  type: ss
-  udp: true
 - cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 12|🇹🇼 台湾|@ripaojiedian
+  name: 1,11|🇹🇼 台湾|@ripaojiedian
   password: OP8PXXDOW0GFSBO2
   port: 21005
   server: 150.116.11.9
@@ -60,7 +31,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 12|🇹🇼 台湾2|@ripaojiedian
+  name: 11|🇹🇼 台湾2|@ripaojiedian
   network: ws
   port: 46005
   server: fadawtawd.zhangwei.li
@@ -75,7 +46,7 @@ proxies:
     path: /zh-cn
 - alterId: 0
   cipher: auto
-  name: 13|台湾2|@ripaojiedian
+  name: 12|台湾2|@ripaojiedian
   network: ws
   port: '46005'
   server: fadawtawd.zhangwei.li
