@@ -1,28 +1,28 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
   name: 0|🇭🇰 香港 01 | 1x HK
-  password: 537fc50f-22bf-4e39-9a95-02124f479c53
+  password: 59a3f0c6-1628-4031-87d7-1b56a4df1675
   port: 36141
   server: free.2weradf.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇬🇧 英国住宅IP 01 | 1x UK
-  password: 537fc50f-22bf-4e39-9a95-02124f479c53
+  password: 59a3f0c6-1628-4031-87d7-1b56a4df1675
   port: 36271
   server: free.2weradf.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇭🇰香港 01 | 1x HK
-  password: 05c8626c-494c-4d53-8f8d-24e6597984e3
+  password: 1daeef40-d6dd-4faa-a313-be87b949412c
   port: 31141
   server: free.2apzhfa.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇬🇧英国家宽 01 | 1x UK
-  password: 05c8626c-494c-4d53-8f8d-24e6597984e3
+  password: 1daeef40-d6dd-4faa-a313-be87b949412c
   port: 31271
   server: free.2apzhfa.xyz
   type: ss
@@ -31,22 +31,6 @@ proxies:
   grpc-opts:
     grpc-service-name: CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config
   name: 2|🇬🇧1 |  1.3MB/s|0%|Netflix|Disn...
-  network: grpc
-  port: '2030'
-  reality-opts:
-    public-key: YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E
-    short-id: 7fe29733
-  server: ns7.esfahansiman.com
-  servername: refersion.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 35069c14-6c3b-428c-89b1-ebe9779631b8
-  xudp: true
-- client-fingerprint: chrome
-  grpc-opts:
-    grpc-service-name: CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config
-  name: 2|🇬🇧2 |  4.9MB/s|0%|Netflix|Disn...
   network: grpc
   port: '2030'
   reality-opts:
