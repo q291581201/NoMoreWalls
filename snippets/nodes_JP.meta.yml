@@ -1,23 +1,23 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|10🇯🇵日本|官网：m5c3cloud.pro
-  password: bd530029-2311-404a-a2ae-5bbdf244e144
-  port: 31111
-  server: freem.vidalith.com
+  name: 0|11🇯🇵日本|官网：蓝色海洋.xyz
+  password: 0a488f94-3209-45f7-8738-6e50dd507ffc
+  port: 36111
+  server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0|11🇯🇵日本|官网：m5c3cloud.pro
-  password: bd530029-2311-404a-a2ae-5bbdf244e144
-  port: 31113
-  server: freem.vidalith.com
+  name: 0|12🇯🇵日本|官网：abluecloud.xyz
+  password: 0a488f94-3209-45f7-8738-6e50dd507ffc
+  port: 36113
+  server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0|12🇯🇵日本|官网：米卡莎.xyz
-  password: bd530029-2311-404a-a2ae-5bbdf244e144
-  port: 31115
-  server: freem.vidalith.com
+  name: 0|13🇯🇵日本|官网：abluecloud.xyz
+  password: 0a488f94-3209-45f7-8738-6e50dd507ffc
+  port: 36115
+  server: freea.glyphara.com
   type: ss
   udp: true
 - alterId: 64
@@ -137,3 +137,24 @@ proxies:
     headers:
       Host: reedfree8mahsang2.redorg.ir
     path: /TelegramU0001F1E8U0001F1F3 @pgkj666 /?ed=2560
+- cipher: chacha20-ietf-poly1305
+  name: 14|10🇯🇵日本|官网：米卡莎.xyz
+  password: ed96416b-017b-49d4-8427-9da4678de3cb
+  port: 31111
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 14|11🇯🇵日本|官网：mikasacloud.site
+  password: ed96416b-017b-49d4-8427-9da4678de3cb
+  port: 31113
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 14|12🇯🇵日本|官网：米卡莎.xyz
+  password: ed96416b-017b-49d4-8427-9da4678de3cb
+  port: 31115
+  server: freem.vidalith.com
+  type: ss
+  udp: true

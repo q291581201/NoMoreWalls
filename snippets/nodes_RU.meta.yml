@@ -1,9 +1,9 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|31🇷🇺俄罗斯|官网：m5c3cloud.pro
-  password: bd530029-2311-404a-a2ae-5bbdf244e144
-  port: 31511
-  server: freem.vidalith.com
+  name: 0|30🇷🇺俄罗斯|官网：a5b3cloud.pro
+  password: 0a488f94-3209-45f7-8738-6e50dd507ffc
+  port: 36511
+  server: freea.glyphara.com
   type: ss
   udp: true
 - alpn:
@@ -192,3 +192,10 @@ proxies:
     headers:
       Host: hk.laoyoutiao.link
     path: /TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560
+- cipher: chacha20-ietf-poly1305
+  name: 14|31🇷🇺俄罗斯|官网：米卡莎.xyz
+  password: ed96416b-017b-49d4-8427-9da4678de3cb
+  port: 31511
+  server: freem.vidalith.com
+  type: ss
+  udp: true
