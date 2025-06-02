@@ -1,48 +1,27 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|7🇹🇼台湾|官网：米卡莎.xyz
-  password: b1bfbacf-1995-4299-9e36-64a836f9907f
-  port: 31241
-  server: freem.vidalith.com
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|8🇹🇼台湾|官网：米卡莎.xyz
-  password: b1bfbacf-1995-4299-9e36-64a836f9907f
-  port: 31243
-  server: freem.vidalith.com
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|9🇹🇼台湾|官网：米卡莎.xyz
-  password: b1bfbacf-1995-4299-9e36-64a836f9907f
-  port: 31245
-  server: freem.vidalith.com
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 1|8🇹🇼台湾|官网：a5b3cloud.pro
-  password: 6c915f1f-5c6c-498f-a1af-9472cea098e7
+  name: 0|8🇹🇼台湾|官网：abluecloud.xyz
+  password: d3d0abbc-2a92-4e20-9d8b-4dba13b1d619
   port: 36241
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|9🇹🇼台湾|官网：a5b3cloud.pro
-  password: 6c915f1f-5c6c-498f-a1af-9472cea098e7
+  name: 0|9🇹🇼台湾|官网：abluecloud.xyz
+  password: d3d0abbc-2a92-4e20-9d8b-4dba13b1d619
   port: 36243
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|10🇹🇼台湾|官网：abluecloud.xyz
-  password: 6c915f1f-5c6c-498f-a1af-9472cea098e7
+  name: 0|10🇹🇼台湾|官网：abluecloud.xyz
+  password: d3d0abbc-2a92-4e20-9d8b-4dba13b1d619
   port: 36245
   server: freea.glyphara.com
   type: ss
   udp: true
 - client-fingerprint: chrome
-  name: 2|🇹🇼1 |  1.4MB/s|0%|Netflix|Yout...
+  name: 1|🇹🇼1 |  1.4MB/s|0%|Netflix|Yout...
   password: exaxgqkKkd0TAMrCxeonWg==
   port: 1443
   server: twmoon1-cdn-route.couldflare-cdn.com
@@ -51,6 +30,27 @@ proxies:
   tls: true
   type: http
   username: mrwdfNTD8M79LCukCieldrqZWqs=
+- cipher: chacha20-ietf-poly1305
+  name: 2|7🇹🇼台湾|官网：m5c3cloud.pro
+  password: 83f7efcf-e0a6-4d7b-9f93-42af962decea
+  port: 31241
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|8🇹🇼台湾|官网：米卡莎.xyz
+  password: 83f7efcf-e0a6-4d7b-9f93-42af962decea
+  port: 31243
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|9🇹🇼台湾|官网：米卡莎.xyz
+  password: 83f7efcf-e0a6-4d7b-9f93-42af962decea
+  port: 31245
+  server: freem.vidalith.com
+  type: ss
+  udp: true
 - name: 14|TW_speednode_0151
   network: ws
   port: 18333
