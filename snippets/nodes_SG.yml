@@ -1,7 +1,7 @@
 proxies:
 - alterId: 64
   cipher: auto
-  name: 2|🇸🇬1 |  1.0MB/s|0%|Netflix|Disn...
+  name: 1|🇸🇬1 |  1.0MB/s|0%|Netflix|Disn...
   port: 49291
   server: 183.236.51.38
   skip-cert-verify: false
@@ -12,7 +12,7 @@ proxies:
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: 12,13|新加坡|@ripaojiedian
+  name: 11,12|新加坡|@ripaojiedian
   network: ws
   port: '30812'
   server: v12.heduian.link
@@ -28,7 +28,7 @@ proxies:
     path: /oooo
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 12|🇸🇬 新加坡3|@ripaojiedian
+  name: 11|🇸🇬 新加坡3|@ripaojiedian
   password: a9d1c7f7-a1bc-47d8-b320-9b79cdf8cd00
   port: 44054
   server: jg647hf446ghvw.gym0boy.com
@@ -36,9 +36,30 @@ proxies:
   type: ss
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 12|🇸🇬 新加坡4|@ripaojiedian
+  name: 11|🇸🇬 新加坡4|@ripaojiedian
   password: 5a0b2638-8416-42c1-b87e-99864b3d3ef2
   port: 20347
   server: sg1.qqingca.cc
   tfo: false
   type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 14|13🇸🇬新加坡|官网：mikasacloud.site
+  password: 51bbaa29-023b-43ba-bf0d-c89f74b08997
+  port: 31171
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 14|14🇸🇬新加坡|官网：mikasacloud.site
+  password: 51bbaa29-023b-43ba-bf0d-c89f74b08997
+  port: 31173
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 14|15🇸🇬新加坡|官网：m5c3cloud.pro
+  password: 51bbaa29-023b-43ba-bf0d-c89f74b08997
+  port: 31175
+  server: freem.vidalith.com
+  type: ss
+  udp: true

@@ -1,1 +1,8 @@
-proxies: []
+proxies:
+- cipher: chacha20-ietf-poly1305
+  name: 14|28🇨🇦加拿大|官网：米卡莎.xyz
+  password: 51bbaa29-023b-43ba-bf0d-c89f74b08997
+  port: 31441
+  server: freem.vidalith.com
+  type: ss
+  udp: true
