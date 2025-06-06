@@ -85,7 +85,7 @@ proxies:
   udp: true
   uuid: b8bd42a9-551f-419d-b70d-4aefdd2cb074
   xudp: true
-- name: '10|Channel id: @ShadowProxy66🇩🇪'
+- name: '9|Channel id: @ShadowProxy66🇩🇪'
   password: 53bdfd4a-7f38-4cb6-b07e-49974de1a800
   port: 25560
   server: 152.53.225.161
@@ -93,7 +93,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '10|Channel id: @ShadowProxy66🇩🇪 #1'
+- name: '9|Channel id: @ShadowProxy66🇩🇪 #1'
   obfs: salamander
   obfs-password: PassWord1
   password: PassWord2
@@ -102,7 +102,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 13|DE_speednode_0008
+- name: 12|DE_speednode_0008
   network: ws
   port: 8880
   server: 45.80.111.20
@@ -117,9 +117,16 @@ proxies:
       Host: us.laoyoutiao.link
     path: /
 - cipher: chacha20-ietf-poly1305
-  name: 14|29🇩🇪德国|官网：mikasacloud.site
-  password: 8dc64d58-0def-4ef2-b18f-2b0550bb8971
+  name: 13|30🇩🇪德国|官网：米卡莎.xyz
+  password: d61cb39f-9a93-478d-80af-fe28b20ec4a7
   port: 31471
   server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 14|28🇩🇪德国|官网：abluecloud.xyz
+  password: c7bb97a2-d73a-40fd-a071-4f06d4030ac7
+  port: 36471
+  server: freea.glyphara.com
   type: ss
   udp: true
