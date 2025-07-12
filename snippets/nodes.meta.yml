@@ -1842,6 +1842,14 @@ proxies:
   sni: www.apple.com
   tls: false
   type: hysteria2
+- name: 10|https://t.me/V2ry_Proxy
+  password: 2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af
+  port: 30000
+  server: 79.72.81.183
+  skip-cert-verify: true
+  sni: www.apple.com
+  tls: false
+  type: hysteria2
 - name: 10| @game_file2020
   password: 621187c3-859d-4682-aac1-cd4500f9690e
   port: 17169
@@ -2120,6 +2128,14 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: '10|https://t.me/V2ry_Proxy #1'
+  password: 7fae5f8e-7963-4cbe-ae1a-31cd952573a2
+  port: 55000
+  server: 139.185.36.59
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: '10|⚜️Telegram: @IP_CF #1'
   password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
   port: 54530
@@ -2174,7 +2190,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: 10|@HIBYEVPNN
+- name: '10|Telegram:@config_proxy 😍 #1'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -2184,7 +2200,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: 10|@Mahdi2000_m ql_0365
+- name: 10| رانvpnowl@
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -2194,7 +2210,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 10|@Mahdi2000_m ql_0366
+- name: 10|فیلترشکن رایگان👈vpnowl@
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -2204,7 +2220,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 10|@Mahdi2000_m ql_0367
+- name: '10|کانال گا : injastvpn@'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -2214,21 +2230,11 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 10|@Mahdi2000_m @Filter_breaker |...
+- name: 10|@Filter_breaker | United Kingd...
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
   port: 36600
-  server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: false
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: '10|Channel id: @Mahdi2000_m #4'
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 35000
   server: yapc-1.adamhayward.co.uk
   skip-cert-verify: false
   sni: YAPC-1.afshin.ir
@@ -2393,7 +2399,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '10|@V2rayePro  کانال تلگرام ن   '
+- name: 10|@V2rayePro  کانال تلگرام ن   م
   obfs: salamander
   obfs-password: mkv_SEfr-salamdash
   password: user10.thisismeSUperkl19201
