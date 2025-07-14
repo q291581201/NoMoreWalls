@@ -15,37 +15,13 @@ proxies:
     headers:
       Host: centos7
     path: /634c5c4f9782
-- name: 9|🇯🇵日本
-  password: 2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af
-  port: 443
-  server: aws-linkhy17.liangxin1.xyz
-  skip-cert-verify: true
-  sni: www.apple.com.cn
-  tls: false
-  type: hysteria2
-- name: 9|🇯🇵日本东京2
-  password: 5d110f18-5a37-4db3-8cf6-f0bced38a1ae
-  port: 443
-  server: 154.85.18.233
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 9|🇯🇵日本东京
-  password: b866d83a-d301-4270-b699-40f322bf52fb
-  port: 443
-  server: 154.85.19.63
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - cipher: rc4-md5
   client-fingerprint: chrome
   name: 12|🇯🇵 日本|@ripaojiedian
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202507121073737-hhzLtsIxCt.download.microsoft.com
+    host: 202507121073737-BbgY2abS77.download.microsoft.com
     mode: http
   port: 8766
   server: cn01.efan8867801.xyz
@@ -85,14 +61,6 @@ proxies:
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 12|🇯🇵 日本5|@ripaojiedian
-  password: 1a17b19d-4896-4531-af79-6e91d8ef8228
-  port: 9898
-  server: 57.180.63.92
-  tfo: false
-  type: ss
 - alterId: 0
   cipher: auto
   name: 13|日本v2|@ripaojiedian
