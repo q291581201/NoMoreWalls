@@ -1,7 +1,7 @@
 proxies:
 - alterId: 64
   cipher: auto
-  name: 1|🇸🇬1 |  1.0MB/s|0%|Netflix|Disn...
+  name: 2|🇸🇬1 |  1.0MB/s|0%|Netflix|Disn...
   port: 49291
   server: 183.236.51.38
   skip-cert-verify: false
@@ -48,7 +48,7 @@ proxies:
   ws-opts:
     headers:
       Host: epga.aimercc.dpdns.org
-    path: /?ed=2560
+    path: /
 - name: 14|SG_speednode_0091
   network: ws
   password: Aimer
@@ -74,4 +74,4 @@ proxies:
   ws-opts:
     headers:
       Host: epga.aimercc.dpdns.org
-    path: /
+    path: /?ed=2560
