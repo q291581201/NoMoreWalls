@@ -17,7 +17,7 @@ proxies:
   sni: de1.jueduibupao.top
   tls: false
   type: hysteria2
-- name: 10|@FreakConfig
+- name: 10|@Daily_Configs
   password: 2b67ONZROv+fRVMxB94BSw==
   port: 443
   server: 5.231.70.79
@@ -25,7 +25,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '10|🇩🇪@EXPRESSVPN_420   '
+- name: '10|@EXPRESSVPN_420   '
   password: 3QlSMKyqLp
   port: 443
   server: android.yas-nowin.ir
@@ -41,7 +41,7 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: '10|@FreakConfig #1'
+- name: 10|@FreakConfig
   password: 4e231218-04c8-44ce-b72d-5c1bbcfc3a94
   port: 30000
   server: nl1.oomz.ru
@@ -157,7 +157,7 @@ proxies:
   sni: de.youyacloud.me
   tls: false
   type: hysteria2
-- name: '10|@FreakConfig #2'
+- name: '10|@FreakConfig #1'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
