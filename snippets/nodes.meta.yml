@@ -82,7 +82,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '9,10|telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆 #1'
+- name: '9,10|🇳🇱 - NL - @freeOnlineVPN #3'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -102,7 +102,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 9,10|🇩🇪
+- name: 9,10|🇪 - DE - @freeOnlineVPN
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -178,14 +178,6 @@ proxies:
   server: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
   skip-cert-verify: true
   sni: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
-  tls: false
-  type: hysteria2
-- name: 10|All-#V2rayAlpha--19
-  password: 0abd5d38-fdf1-11ed-bade-f23c91369f2d
-  port: 443
-  server: 1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com
-  skip-cert-verify: true
-  sni: 1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com
   tls: false
   type: hysteria2
 - name: 10|All-@V2rayAlpha-25
@@ -871,11 +863,26 @@ proxies:
   sni: us.xn--gmq00sc0nuve.shop
   tls: false
   type: hysteria2
+- name: 10|@TapsiVpn • JOIN 🇺🇸  @TapsiVpn...
+  password: dc4b63d4-5010-4b92-b0e8-adfa4c3292c4
+  port: 21738
+  server: us.xn--9kqy68chx3a.shop
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
 - name: 10|All--@V2rayAlpha--18
   password: de629d50-1711-11ed-bd7c-f23c913c8d2b
   port: 443
   server: 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|@TapsiVpn. join
+  password: de63b3fa-fb7c-4ddd-8b09-5973a30168c6
+  port: 20501
+  server: fg.zhujue.us
+  skip-cert-verify: true
+  sni: fg.zhujue.us
   tls: false
   type: hysteria2
 - name: 10|All-@V2ray_Alpha--7
@@ -1010,6 +1017,14 @@ proxies:
   server: 91.99.225.11
   skip-cert-verify: true
   sni: refersion.com
+  tls: false
+  type: hysteria2
+- name: 10|28YB5qK!5t#U&insecure=1&sni=ww...
+  obfs: salamander
+  obfs-password: '&O'
+  password: yhqy5AHofQq
+  port: 46914
+  server: channel3.saghetalaie.homes
   tls: false
   type: hysteria2
 - name: '10|🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #21'
